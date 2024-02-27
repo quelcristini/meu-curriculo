@@ -1,0 +1,28 @@
+<html>
+	<head>
+		<meta charset="utf-8">	
+		<title> Meu site<\title>
+	</head>
+	<header>
+		<h1> Currículo</h1>
+		<hr>
+	</header>
+	<body>
+		<section id="dados-pessoais"
+			<h2>Dados Pessoais<h2>
+			<br><br>
+			<p>Olá eu sou uma profissional dedicada e motivade em busca de crescer e contribuir na sua instituição</p>
+			<br>
+			<ul>
+				<li><strong>Nome:<strong> Raquel Cristini Comin Da Cunha<li>
+				<li><strong>Endereço:</strong> Rua Claudio Lopes, 559 Aventureiro - Joinville SC<li>
+				<li><strong>Idade:</strong> 17</li>
+			</ul>
+		</section>
+		</section id"experiencia">
+			<h2>Experincia Profissional</h2>
+		<p>
+		...
+		<p>
+	</section>
+	
